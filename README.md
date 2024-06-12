@@ -82,14 +82,11 @@
 
 
 ## Github Stats  
-<div style="display: flex;">
-    <div style="margin-right: 10px;">
-        ![EthanL818's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EthanL818&theme=tokyonight&hide_border=true)
-    </div>
-    <div style="margin-right: 10px;">
-        ![EthanL818's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanL818&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-    </div>
-    <div>
-        ![EthanL818's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanL818&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-    </div>
-</div>
+## Github Stats
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanL818&theme=tokyonight&hide_border=true" alt="EthanL818's Streak" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanL818&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="EthanL818's Top Languages" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanL818&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="EthanL818's Top Languages">
+</p>
+
