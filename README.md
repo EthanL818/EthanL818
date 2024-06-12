@@ -86,7 +86,6 @@
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanL818&theme=tokyonight&hide_border=true" alt="EthanL818's Streak" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanL818&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="EthanL818's Top Languages" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanL818&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="EthanL818's Top Languages">
 </p>
 
