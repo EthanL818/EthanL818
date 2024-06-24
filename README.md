@@ -9,8 +9,6 @@
 
 - ❓ Feel free to reach out to me about anything!  
   
-
-- ⚡ Fun fact: The GP02A is the best designed Gundam of all time  
   
 
 <br/>  
