@@ -1,14 +1,4 @@
-### <div align="center">I'm Ethan, a third year Software Engineering student👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working on devCircle, a web platform for students to easily share their side projects and receive feedback. 
-  
-
-- 🌱 I’m currently learning React, Next.js, and grinding LeetCode  
-  
-
-- ❓ Feel free to reach out to me about anything!  
-  
+### <div align="center">I'm Ethan, a third year Software Engineering student👨‍💻 </div>    
   
 
 <br/>  
